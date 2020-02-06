@@ -1,3 +1,4 @@
+// sadpath provides a simple way to centralize error handling and reduce boilerplate.
 package sadpath
 
 type failedCheck struct {
