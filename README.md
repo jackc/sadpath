@@ -1,3 +1,5 @@
+[![](https://godoc.org/github.com/jackc/sadpath?status.svg)](https://godoc.org/github.com/jackc/sadpath)
+
 # sadpath
 
 sadpath provides a simple way to centralize error handling and reduce boilerplate.
